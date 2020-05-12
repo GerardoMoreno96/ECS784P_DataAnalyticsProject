@@ -1,0 +1,7 @@
+Hobbies_items_Sold,Year_of_Day,is_snap,0.06520532941197758
+Household_items_Sold,is_holiday,is_snap,0.1126382996791398
+Total_Revenue_in_Dollars,Year_of_Day,is_snap,0.06551626974093183
+Year_of_Day,is_snap,Hobbies_items_Sold,0.0863198550877302
+is_holiday,is_snap,Household_items_Sold,0.10373331786827263
+Hobbies_items_Sold,Year_of_Day,is_holiday,0.05200345802572974
+Household_items_Sold,Year_of_Day,is_holiday,0.0685846021715889

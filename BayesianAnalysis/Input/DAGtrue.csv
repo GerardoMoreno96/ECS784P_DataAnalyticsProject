@@ -1,0 +1,12 @@
+ID,Variable 1,Dependency,Variable 2
+1,Year_of_Day,->,Foods_items_Sold
+2,Year_of_Day,->,Hobbies_items_Sold
+3,Year_of_Day,->,Household_items_Sold
+4,is_snap,->,Foods_items_Sold
+5,is_snap,->,Household_items_Sold
+6,is_holiday,->,Foods_items_Sold
+7,is_holiday,->,Hobbies_items_Sold
+8,is_holiday,->,Household_items_Sold
+9,Foods_items_Sold,->,Total_Revenue_in_Dollars
+10,Hobbies_items_Sold,->,Total_Revenue_in_Dollars
+11,Household_items_Sold,->,Total_Revenue_in_Dollars
